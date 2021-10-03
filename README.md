@@ -1,2 +1,2 @@
-# FIRST-PROJECT
+# first-project
 Introduction to Coding
